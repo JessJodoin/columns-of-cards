@@ -16,6 +16,7 @@ body {
 
 .title {
   text-align: center;
+  font-size: 2rem;
 }
 
 .cards {
@@ -47,7 +48,6 @@ body {
 }
 
 img {
-  display: block;
   width: 100px;
 }
 
