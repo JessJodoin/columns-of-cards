@@ -22,6 +22,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  flex-grow: 1;
   padding: .75rem;
 }
 
@@ -29,6 +30,8 @@ body {
   background-color: #e2e2e2;
 
   width: 25%;
+  display: block;
+  margin: 0 auto 1.5rem;
 }
 
 .btn2 {
@@ -44,7 +47,6 @@ body {
 }
 
 img {
-  text-align: center;
   display: block;
   width: 100px;
 }
