@@ -16,7 +16,6 @@ body {
 
 .title {
   text-align: center;
-  font-size: 2rem;
 }
 
 .cards {
@@ -28,7 +27,6 @@ body {
 
 .btn {
   background-color: #e2e2e2;
-  color: #333;
 
   width: 25%;
 }
