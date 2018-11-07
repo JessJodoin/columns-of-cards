@@ -77,7 +77,8 @@ p {
 }
 
 p div {
-  display: inline-block;
+  display: flex;
+  flex-direction: row;
 }
 
 .btn:hover {
@@ -94,6 +95,7 @@ p div {
   margin: 0;
   padding: .75rem;
   border-radius: 8px;
+  width: 100%;
 
   background-color: #333;
   color: #fff;
