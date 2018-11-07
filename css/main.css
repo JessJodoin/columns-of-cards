@@ -72,8 +72,12 @@ cite {
 
 p {
   margin: 0 0 1.5rem;
-  padding-top: 1.5rem;
+  padding-top: .75rem;
   flex-grow: 2;
+}
+
+p div {
+  display: inline-block;
 }
 
 .btn:hover {
