@@ -71,6 +71,7 @@ cite {
 }
 
 p {
+  display: inline-block;
   margin: 0 0 1.5rem;
   padding-top: .75rem;
   flex-grow: 2;
